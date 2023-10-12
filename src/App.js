@@ -1,4 +1,4 @@
-import { Parallax } from "./parallax/parallax-3/Parallax";
+import { Parallax } from "./parallax/parallax-4/Parallax";
 
 function App() {
   return <Parallax />;
